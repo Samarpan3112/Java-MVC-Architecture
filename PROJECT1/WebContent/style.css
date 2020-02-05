@@ -1,0 +1,26 @@
+body
+{
+	background: #c7f0db;
+}
+h1
+{
+	color: #7474F6;
+	text-align: center;
+	background: #b6ffea; 
+	padding: 5%;
+	font-family: 'Lilita One', cursive;
+}
+.index1
+{
+	padding: 2%;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+}
+.index2
+{
+	text-align: center;
+	padding: 2%;
+	background: #b2dffb;
+	margin-top: 10px;
+	font-family: 'Raleway', sans-serif;
+}
